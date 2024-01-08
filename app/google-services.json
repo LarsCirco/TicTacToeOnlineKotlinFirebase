@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "364681288869",
+    "project_id": "tictactoeonline-a7d90",
+    "storage_bucket": "tictactoeonline-a7d90.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:364681288869:android:c787937698f90bde3c414c",
+        "android_client_info": {
+          "package_name": "com.example.tictactoeonline"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAP5Rwv4QUyB-w_N8_QLuY9gvt8tYkpieA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
